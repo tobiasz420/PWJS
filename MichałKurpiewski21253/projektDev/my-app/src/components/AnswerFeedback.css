@@ -1,0 +1,48 @@
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.feedback-container {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  right: 30px;
+  padding: 15px 20px;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+.feedback-container.correct {
+  background-color: #28a745;
+  border: 2px solid #218838;
+}
+
+.feedback-container.incorrect {
+  background-color: #dc3545;
+  border: 2px solid #c82333;
+}
+
+.feedback-message {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.correct-answer-info {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+}
+
+.correct-answer-info strong {
+  text-decoration: underline;
+}
