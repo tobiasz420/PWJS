@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/css/main.fcbe49f2.css",
+    "main.js": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/js/main.ba91225f.js",
+    "static/js/453.ed3810f9.chunk.js": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/index.html",
+    "main.fcbe49f2.css.map": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/css/main.fcbe49f2.css.map",
+    "main.ba91225f.js.map": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/js/main.ba91225f.js.map",
+    "453.ed3810f9.chunk.js.map": "/PWJS/Micha%C5%82Kurpiewski21253/projektProd/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbe49f2.css",
+    "static/js/main.ba91225f.js"
+  ]
+}
